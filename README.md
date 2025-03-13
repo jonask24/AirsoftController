@@ -9,4 +9,4 @@ Control circuit for airsoft AEG.
 
 ## Perfboard circuit sketch
 
-<img src="./images/perfboardSketch.png" alt="Circuit Sketch" width="300">
+<img src="./images/perfboardSketch.PNG" alt="Circuit Sketch" width="300">
